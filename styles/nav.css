@@ -2,6 +2,8 @@ nav {
   max-width: 80rem;
   width: 100%;
   padding: 1.25rem 2rem;
+  margin: 0 auto;
+  border: 5px black solid;
 
   display: flex;
   align-items: center;
