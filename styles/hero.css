@@ -3,7 +3,6 @@ section#hero {
   width: 100%;
   padding: 2.5rem 2rem;
   margin-inline: auto;
-  border: 5px black solid;
 
   display: flex;
   align-items: center;
@@ -81,8 +80,6 @@ section#hero {
     width: 100%;
     max-width: 30.5rem;
     height: 30.5rem;
-
-    border: solid 2px green;
 
     & .content {
       width: 100%;
