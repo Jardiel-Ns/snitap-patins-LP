@@ -28,7 +28,7 @@ html, button {
 }
 
 html {
-  zoom: .56;
+  overflow-x: hidden;
 }
 
 h1, h2 {
